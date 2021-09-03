@@ -6,4 +6,4 @@ simple flappy-bird game designed by AYAZ
 
 
 
-![AYAZ](E:\AYAZ)
+![AYAZ](E:\AYAZ.png)
